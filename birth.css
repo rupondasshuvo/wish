@@ -1,0 +1,123 @@
+.full{
+      height: 100%;
+      width: 100%;
+      
+
+}
+#head{
+      text-decoration:none;
+      text-align: center;
+      color:rgb(175, 53, 0);
+      font-size: 40px;
+      font-weight: 900px;
+      font-family:'Courier New', Courier, monospace;
+      background-image: linear-gradient(180deg, rgb(236, 213, 213), white);
+      width: 600px;
+      height: 30px;
+      border-radius: 15px;
+      margin-left: 400px;
+      margin-top: 100px;
+
+
+}
+
+.birth{
+    
+    
+      background-image: url("/images/cover.jpg");
+      background-repeat: no-repeat;
+      background-size: cover;
+      height: 500px;
+      position: relative;
+      
+}
+.text2{
+      color: rgb(2, 65, 120);
+      font-size: 30px;
+      background-image: linear-gradient(rgb(245, 225, 225), rgba(249, 224, 224, 0.957), rgb(255, 255, 255));
+      text-align: center;
+      margin: 70px;
+      padding: 70px;
+      padding-bottom: 100px;
+      border-radius: 15px;
+      margin-top: 150px;
+}
+
+.photo{
+      
+      height: 600px;
+      border: 18px dashed rgb(103, 51, 110);
+      border-radius: 16px;
+      box-shadow: 10px 10px 10px;
+      margin-top: 150px;
+     
+}
+.lovetalk{
+      text-align: center;
+      font-size: 20px;
+}
+
+.img2{
+      display: flex;
+}
+.love:hover{
+      border: 5px solid rgb(230, 14, 14);
+}
+ .love{
+            height: 600px;
+            width: 90%;
+        
+            border-radius: 10px;
+            box-shadow: 10px 10px 10px;
+        margin: 35px;
+            margin-top:2px;
+            text-align: center;
+      }
+
+.vedi{
+      height: 450px;
+      width:650px;
+      border: 15px solid rgb(230, 168, 178);
+      border-radius: 8px;
+      box-shadow: 10px 10px 10px;
+      margin-left: 400px;
+      margin-bottom: 90px;
+      margin-top: 30px;
+      
+      
+
+} 
+
+
+.footer{
+
+      background-color: rgb(232, 183, 156);
+      text-align: center;
+      font-size: 25px;
+      padding: 100px;
+      
+
+}
+#text{
+      color:rgb(11, 11, 87);
+}
+#textt{
+      font-size: 30px;
+      color: bisque;
+}
+#textt:hover{
+color: rgb(209, 7, 7);
+      
+}
+.kobita{
+      color: rgb(2, 65, 120);
+      font-size: 30px;
+      background-image: linear-gradient(rgb(245, 225, 225), rgba(249, 224, 224, 0.957), rgb(255, 255, 255));
+      text-align: center;
+      margin: 70px;
+      padding: 70px;
+      padding-bottom: 100px;
+      border-radius: 15px;
+      margin-top: 150px;
+      padding: 200px;
+}
